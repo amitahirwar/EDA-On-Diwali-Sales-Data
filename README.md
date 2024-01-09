@@ -12,7 +12,9 @@ Business Implications: Translating discovered patterns into actionable insights 
 
 ## Expected Outcomes
 --Insightful Visualizations: Visual representations highlighting sales trends and patterns.
+
 --Key Findings and Implications: Identifying influential factors for sales spikes, customer preferences, and potential areas for business growth or improvement.
+
 --Recommendations: Suggesting actionable steps based on data-driven insights to optimize sales strategies during festive seasons.
 
 ## Conclusion
